@@ -23,7 +23,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.PrintSequence", "PrintSe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.FormatCode", "FormatCode\10.FormatCode.csproj", "{0A0400F0-3078-4321-9EF8-B18597817AAE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgrammingLanguages", "ProgrammingLanguages\ProgrammingLanguages.csproj", "{E85B9A95-A3CD-490C-AF29-D51F79C4760D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.ProgrammingLanguages", "ProgrammingLanguages\11.ProgrammingLanguages.csproj", "{E85B9A95-A3CD-490C-AF29-D51F79C4760D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.DevelopmentEnviroment", "DevelopmentEnviroment\12.DevelopmentEnviroment.csproj", "{0BEC64D5-B66A-44B8-B875-80C2E7F6ACF5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{E85B9A95-A3CD-490C-AF29-D51F79C4760D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E85B9A95-A3CD-490C-AF29-D51F79C4760D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E85B9A95-A3CD-490C-AF29-D51F79C4760D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BEC64D5-B66A-44B8-B875-80C2E7F6ACF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BEC64D5-B66A-44B8-B875-80C2E7F6ACF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BEC64D5-B66A-44B8-B875-80C2E7F6ACF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BEC64D5-B66A-44B8-B875-80C2E7F6ACF5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
