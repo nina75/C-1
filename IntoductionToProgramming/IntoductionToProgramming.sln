@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.DevelopmentEnviroment", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13.CSharpAndDotNetDiff", "CSharpAndDotNetDiff\13.CSharpAndDotNetDiff.csproj", "{AA766DD7-2362-4DCE-8215-70C174B524B8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurrentDateAndTime", "CurrentDateAndTime\CurrentDateAndTime.csproj", "{49AEEA5D-C1BD-4A00-97D6-9DCAAD2AADEE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{AA766DD7-2362-4DCE-8215-70C174B524B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA766DD7-2362-4DCE-8215-70C174B524B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA766DD7-2362-4DCE-8215-70C174B524B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49AEEA5D-C1BD-4A00-97D6-9DCAAD2AADEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49AEEA5D-C1BD-4A00-97D6-9DCAAD2AADEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49AEEA5D-C1BD-4A00-97D6-9DCAAD2AADEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49AEEA5D-C1BD-4A00-97D6-9DCAAD2AADEE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
