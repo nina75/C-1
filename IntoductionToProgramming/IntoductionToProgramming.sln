@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14.CurrentDateAndTime", "Cu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15.Age", "Age\15.Age.csproj", "{29A23C90-A4D8-4D42-9DFC-A02E6B29AA04}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintLongSequence", "PrintLongSequence\PrintLongSequence.csproj", "{C6BB07FD-36DE-42A5-A2D3-F73FA543D4FF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{29A23C90-A4D8-4D42-9DFC-A02E6B29AA04}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{29A23C90-A4D8-4D42-9DFC-A02E6B29AA04}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{29A23C90-A4D8-4D42-9DFC-A02E6B29AA04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6BB07FD-36DE-42A5-A2D3-F73FA543D4FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6BB07FD-36DE-42A5-A2D3-F73FA543D4FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6BB07FD-36DE-42A5-A2D3-F73FA543D4FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6BB07FD-36DE-42A5-A2D3-F73FA543D4FF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

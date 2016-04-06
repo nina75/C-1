@@ -8,10 +8,13 @@ class PrintAge
     static void Main()
     {
         DateTime birthday = DateTime.Parse(Console.ReadLine());
-        DateTime now = DateTime.Today;
+        DateTime now = DateTime.Now;
 
         int age = now.Year - birthday.Year;
-        if (birthday > now.AddYears(-age)) age--;
+        if (birthday > now.AddYears(-age))
+        {
+            age--;
+        }
         Console.WriteLine(age);
         Console.WriteLine(age + 10);
     }
