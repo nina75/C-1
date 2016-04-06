@@ -1,15 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿/* Play with Microsoft Developer Network (MSDN) Library Documentation.
+Find information about Console.WriteLine() method in MSDN.
+Find information about Console.ReadLine() method in MSDN.
+Find information about the Console class.
+Find information about the class keyword. */
 
-namespace MSDNLibrary
+
+class Program
 {
-    class Program
+    static void Main()
     {
-        static void Main(string[] args)
-        {
-        }
     }
 }
